@@ -1,3 +1,5 @@
 function parseArgument(strArg){
-    return strArg.split;
+    return strArg.split('d');
 }
+
+module.exports = parseArgument
