@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thecalibribody/rolla2/issues"
   },
-  "homepage": "https://github.com/thecalibribody/rolla2#readme"
+  "homepage": "https://github.com/thecalibribody/rolla2#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
 }
