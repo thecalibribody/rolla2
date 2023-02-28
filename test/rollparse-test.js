@@ -1,4 +1,4 @@
-var assert = requre('assert')
+const assert = requre('assert')
 
 describe('Argument Text Parser', ()=>{
     it ('Can parse 1d6', ()=>{
