@@ -1,9 +1,9 @@
 # ROLLA 2
 
-## Proper Version of my ROLLA script I made when I started university.
+## Proper Version of my ROLLA script. The old one I made years ago.
 
 ### Purpose:
-A command line based dice rolling software.
+A command line-based dice-rolling software.
 
 Written with JavaScript.
 
